@@ -114,7 +114,7 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:026032_0001_0FCF365514485E18"/>
+            <pb facs="unknown:026032_0001_0FCF365514485E18"/>
             <p>
                <hi>Mrs. POWNALL's</hi> ADDRESS, IN BEHALF OF THE <hi>FRENCH MUSICIANS,</hi> Delivered on her Benefit CONCERT Night, AT Oeller's Hotel, Cheſnut-ſtreet, <hi>Philadelphia.</hi>
             </p>
@@ -124,10 +124,10 @@
                <hi>PHILADELPHIA.</hi> Printed and Sold at STORY's Office, (No. 36) Fourth-ſtreet nearly oppoſite the Indian Queen tavern.</p>
          </div>
          <div type="to_the_reader">
-            <pb facs="tcp:026032_0002_0FCF365691E1AAD0"/>
+            <pb facs="unknown:026032_0002_0FCF365691E1AAD0"/>
             <head>To the READER.</head>
             <p>THE CONCERTS in which <hi>Mrs. POWNALL</hi> has taken a part during the late Winter, having eſtabliſhed her in the Firſt Rank, as a <hi>Vocal Per<g ref="char:EOLhyphen"/>former,</hi> muſt have excited in the Public Mind, a deſire to peruſe the productions of her Pen, ſome of which ſhe has at different times ſelected for their Entertainment; and however inferior theſe may appear, when diveſted of the Ornaments derived from her <hi>Melody,</hi> the editor flatters himſelf, that the Public, who have already given a decided and unqualified Preference to her Execution, will find no reaſon to be diſſatisfied with the Judgment diſ<g ref="char:EOLhyphen"/>played in her Choice of the following, from among a variety of SONGS of her own Compoſition, when at an early period of Life.—Few circumſtances could have occur'd more advantageous to our cha<g ref="char:EOLhyphen"/>racter for juſtneſs of <hi>Taſte,</hi> than the earneſt appro<g ref="char:EOLhyphen"/>bation beſtowed on this <hi>Lady</hi> at a time, when it was not generally known, that ſhe had during a
-<pb n="4" facs="tcp:026032_0003_0FCF36583AD4D250"/>
+<pb n="4" facs="unknown:026032_0003_0FCF36583AD4D250"/>
 ſeries of years, been the <hi>Favorite Singer at Vauxhall.</hi> For although her Benevolence of Conduct, reſpect<g ref="char:EOLhyphen"/>ing the <hi>French Performers,</hi> may in the eyes of <hi>Phi<g ref="char:EOLhyphen"/>ladelphians</hi> have given additional <hi>Grace</hi> to her ex<g ref="char:EOLhyphen"/>ertions at their Concerts, yet the applauſes beſtow<g ref="char:EOLhyphen"/>ed on her <hi>Performance,</hi> by a very crouded and re<g ref="char:EOLhyphen"/>ſpectable audience, when for her own <hi>Benefit,</hi> ſhew a juſt appreciation of <hi>Merit,</hi> even when unaided by Circumſtances, adapted to ſilence the voice of Criticiſm and excite the Feelings of <hi>Philanthrophy.</hi>
             </p>
          </div>
@@ -136,7 +136,7 @@
          <text xml:lang="eng">
             <body>
                <div type="address">
-                  <pb facs="tcp:026032_0004_0FCF36598F970720"/>
+                  <pb facs="unknown:026032_0004_0FCF36598F970720"/>
                   <head>Mrs. POWNALL's ADDRESS.</head>
                   <opener>
                      <salute>LADIES and GENTLEMEN,</salute>
@@ -151,7 +151,7 @@
                         <desc>〈◊〉</desc>
                      </gap> muſt ſure ſucceed</l>
                   <l>
-                     <pb n="2" facs="tcp:026032_0005_0FCF3669FA941BE8"/>Ladies, to your kind hearts I'll firſt appeal;</l>
+                     <pb n="2" facs="unknown:026032_0005_0FCF3669FA941BE8"/>Ladies, to your kind hearts I'll firſt appeal;</l>
                   <l>You're not expos'd to <hi>"feel what wretches feel."</hi>
                   </l>
                   <l>Though modeſt ſhame forbids them tell their tale,</l>
@@ -173,7 +173,7 @@
                   <l>That <hi>Frenchmen</hi> in their cauſe once bravely fought?</l>
                   <l>
                      <pb n="3"
-                         facs="tcp:026032_0006_0FCF366B15420828"
+                         facs="unknown:026032_0006_0FCF366B15420828"
                          rendition="simple:additions"/>Forbid it Fame, forbid it Liberty,</l>
                   <l>Honor, Religion, every ſacred tie;</l>
                   <l>Say you'll relieve them, elſe this little Troop,</l>
@@ -193,7 +193,7 @@
                   <l>While others, who well know that good was mean't,</l>
                   <l>Though they condemn the lines, applaud the intent.</l>
                   <l>
-                     <pb n="4" facs="tcp:026032_0007_0FCF366DE3B03B00"/>If not, I've only to lament my fate,</l>
+                     <pb n="4" facs="unknown:026032_0007_0FCF366DE3B03B00"/>If not, I've only to lament my fate,</l>
                   <l>And wiſh I was an abler Advocate,</l>
                   <l>But if my ardent pray'rs are hear'd in Heav'n,</l>
                   <l>You'll all meet here on Saturday at Seven.</l>
@@ -203,7 +203,8 @@
          <text xml:lang="eng">
             <front>
                <div type="title_page">
-                  <pb facs="tcp:026032_0008_0FCF3671208FCCD8" rendition="simple:additions"/>
+                  <pb facs="unknown:026032_0008_0FCF3671208FCCD8"
+                      rendition="simple:additions"/>
                   <p>Paſtoral Songs,</p>
                   <p>COMPOSED AT AN EARLY PERIOD OF THE AUTHOR'S LIFE.</p>
                   <p>By MARY A. POWNALL.</p>
@@ -213,7 +214,7 @@
             <body>
                <div type="songs">
                   <div n="1" type="song">
-                     <pb facs="tcp:026032_0009_0FCF367ADDE19110"/>
+                     <pb facs="unknown:026032_0009_0FCF367ADDE19110"/>
                      <head>SONG I. DESPONDING LOVE.</head>
                      <lg>
                         <l>BY walks, where the moon beam beſilvers the ſtream,</l>
@@ -237,7 +238,7 @@
                      </lg>
                   </div>
                   <div n="2" type="song">
-                     <pb n="8" facs="tcp:026032_0010_0FCF3681CC22EF00"/>
+                     <pb n="8" facs="unknown:026032_0010_0FCF3681CC22EF00"/>
                      <head>SONG II. JEMMY OF THE DEE.</head>
                      <lg>
                         <l>ONE morn as JEMMY of the <hi>Dee,</hi>
@@ -262,7 +263,7 @@
                         <l>Neglected every Ruſtic Play.</l>
                         <l>Since firſt you fled my Cot.</l>
                         <l>
-                           <pb n="9" facs="tcp:026032_0011_0FCF368398EFE170"/>For what avails my Fleecy Care,</l>
+                           <pb n="9" facs="unknown:026032_0011_0FCF368398EFE170"/>For what avails my Fleecy Care,</l>
                         <l>Why dance I on the green,</l>
                         <l>Why revel it at Wake or Fair,</l>
                         <l>Unleſs by SUSAN ſeen.</l>
@@ -290,7 +291,7 @@
                      </lg>
                   </div>
                   <div n="3" type="song">
-                     <pb n="10" facs="tcp:026032_0012_0FCF3686AC30F530"/>
+                     <pb n="10" facs="unknown:026032_0012_0FCF3686AC30F530"/>
                      <head>SONG III. THE SORROWS OF MARY.</head>
                      <lg>
                         <l>"YE winds, to whom COLLIN complains,</l>
@@ -314,7 +315,7 @@
                         <l>He'd plac'd his affections on me.</l>
                      </lg>
                      <lg n="3">
-                        <pb n="11" facs="tcp:026032_0013_0FCF36876860BB20"/>
+                        <pb n="11" facs="unknown:026032_0013_0FCF36876860BB20"/>
                         <head>III.</head>
                         <l>The bark of the <hi>green Willow Tree,</hi>
                         </l>
@@ -329,7 +330,7 @@
                      </lg>
                   </div>
                   <div n="4" type="song">
-                     <pb n="12" facs="tcp:026032_0014_0FCF3689C49A4C88"/>
+                     <pb n="12" facs="unknown:026032_0014_0FCF3689C49A4C88"/>
                      <head>SONG IV. FORBIDDEN LOVE.</head>
                      <lg>
                         <l>WHAT means this new felt agitation,</l>
@@ -355,7 +356,7 @@
                         </l>
                      </lg>
                      <lg n="3">
-                        <pb n="13" facs="tcp:026032_0015_0FCFD4E2C3C4C090"/>
+                        <pb n="13" facs="unknown:026032_0015_0FCFD4E2C3C4C090"/>
                         <head>III.</head>
                         <l>O thou to whom no ſecret's hiden,</l>
                         <l>My ſupplication pray receive,</l>
@@ -379,7 +380,7 @@
                      </lg>
                   </div>
                   <div n="5" type="song">
-                     <pb n="14" facs="tcp:026032_0016_0FCFD4E4374C5F40"/>
+                     <pb n="14" facs="unknown:026032_0016_0FCFD4E4374C5F40"/>
                      <head>SONG V. The MUSIC, and WORDS, compoſed by Mrs. Pownall,</head>
                      <lg>
                         <l>WHERE gently flows ſweet winding Tay,</l>
@@ -405,7 +406,7 @@
                         <l>Bonny Jemmy.</l>
                      </lg>
                      <lg n="3">
-                        <pb n="15" facs="tcp:026032_0017_0FCFD4E5DFD385A0"/>
+                        <pb n="15" facs="unknown:026032_0017_0FCFD4E5DFD385A0"/>
                         <head>III.</head>
                         <l>If Fame he ſeek mid'ſt hoſtile ſtrife,</l>
                         <l>Or gayly gang fair Glaſgow's pride,</l>
@@ -419,12 +420,12 @@
                      </lg>
                   </div>
                   <div type="note">
-                     <pb facs="tcp:026032_0018_0FCFD4E7348C1A48"/>
+                     <pb facs="unknown:026032_0018_0FCFD4E7348C1A48"/>
                      <p>☞ SONG the Vth. Sung at the French Mu<g ref="char:EOLhyphen"/>ſician's Benefit CONCERT at Oellers Hotel; Who where honored with the company of the Preſident and a great number of the firſt Characters in our City.</p>
                   </div>
                </div>
                <div type="songs">
-                  <pb facs="tcp:026032_0019_0FCFD4E8A552CB58"/>
+                  <pb facs="unknown:026032_0019_0FCFD4E8A552CB58"/>
                   <head>NEW SONGS, SUNG AT THE CONCERT'S.—NEW THEATRE, PHILADELPHIA.</head>
                   <div n="1" type="song">
                      <head>SONG I. POOR TOM BOWLING.—Or the Sailor's Epitaph. Sung by Mr. Harper, at the CONCERT.—New Theatre.</head>
@@ -450,7 +451,7 @@
                         <l>For Tom is gone aloft.</l>
                      </lg>
                      <lg>
-                        <pb n="18" facs="tcp:026032_0020_0FCFD4EF2FAA50F8"/>
+                        <pb n="18" facs="unknown:026032_0020_0FCFD4EF2FAA50F8"/>
                         <l>Yet ſhall Poor Tom find pleaſant weather</l>
                         <l>When he who all commands</l>
                         <l>Shall give, to call life's Crew together,</l>
@@ -488,7 +489,7 @@
                         <l>Let us drink to the joys of the next coming day.</l>
                      </lg>
                      <lg>
-                        <pb n="19" facs="tcp:026032_0021_0FCFD4F3EBA6D9B8"/>
+                        <pb n="19" facs="unknown:026032_0021_0FCFD4F3EBA6D9B8"/>
                         <l>Then for hounds there was nimble ſo well that climbs rocks</l>
                         <l>And cocknoſe a good one at ſcenting a fox,</l>
                         <l>Little Plunge like a mole who will ferret and ſearch,</l>
@@ -532,7 +533,7 @@
                            </gap>.</l>
                      </lg>
                      <lg>
-                        <pb n="20" facs="tcp:026032_0022_0FCFD4F7043C4250"/>
+                        <pb n="20" facs="unknown:026032_0022_0FCFD4F7043C4250"/>
                         <l>The ample can adorn'd the board,</l>
                         <l>Prepar'd to ſee it out,</l>
                         <l>Each gave the laſs that he ador'd</l>
@@ -571,7 +572,7 @@
                         <l>Each his beſt manner tried,</l>
                         <l>'Till ſummon'd by the empty can,</l>
                         <l>
-                           <pb n="21" facs="tcp:026032_0023_0FCFD4F876C535B0"/>They to their hammocks hied:</l>
+                           <pb n="21" facs="unknown:026032_0023_0FCFD4F876C535B0"/>They to their hammocks hied:</l>
                         <l>Yet ſtill they did their vigils keep,</l>
                         <l>Though the huge can was out,</l>
                         <l>For in ſoft viſions gentle ſleep,</l>
@@ -611,7 +612,7 @@
                            </gap>s noration,</l>
                         <l>The reſt is Fortune's whim.</l>
                         <l>
-                           <pb n="22" facs="tcp:026032_0024_0FCFD4F9E05E6468"/>Cheerly my hearts, then play your parts,</l>
+                           <pb n="22" facs="unknown:026032_0024_0FCFD4F9E05E6468"/>Cheerly my hearts, then play your parts,</l>
                         <l>Boldly reſolve to ſink or ſwim;</l>
                         <l>The mighty ſurge may ruin urge,</l>
                         <l>And danger preſs;</l>
@@ -649,7 +650,7 @@
                               <desc>•</desc>
                            </gap>IN, Nature's ruſtic Child</l>
                         <l>
-                           <pb n="23" facs="tcp:026032_0025_0FCFD4FB9F3A79F0"/>Tried calm Cotentment to enjoy,</l>
+                           <pb n="23" facs="unknown:026032_0025_0FCFD4FB9F3A79F0"/>Tried calm Cotentment to enjoy,</l>
                         <l>And ſweetly thus in wood-notes wild,</l>
                         <l>Would chearful ſing the Cottage Boy.</l>
                      </lg>
@@ -685,7 +686,7 @@
                         <l>To the arrow of fate or the canker of care,</l>
                         <l>His potions oblivious a balm may beſtow,</l>
                         <l>
-                           <pb n="24" facs="tcp:026032_0026_0FCFD4FCE5D01978"/>But to fancy that feeds on the charms of the fair,</l>
+                           <pb n="24" facs="unknown:026032_0026_0FCFD4FCE5D01978"/>But to fancy that feeds on the charms of the fair,</l>
                         <l>The death of reflection's the birth of all woe.</l>
                      </lg>
                      <lg>
@@ -724,7 +725,7 @@
                         <l>Beguild the time with ſinging.</l>
                         <l>Young Damon met me in the grove,</l>
                         <l>
-                           <pb n="25" facs="tcp:026032_0027_0FCFD4FFDF560C88"/>AND told me I was clever,</l>
+                           <pb n="25" facs="unknown:026032_0027_0FCFD4FFDF560C88"/>AND told me I was clever,</l>
                         <l>But ſtead of whiſp'ring tales of Love,</l>
                         <l>Cried Kiſs me now or never.</l>
                      </lg>
@@ -769,7 +770,7 @@
                         <l>My Cot was ſnug, well fill'd my keg,</l>
                         <l>My grunter in the ſty.</l>
                         <l>
-                           <pb n="26" facs="tcp:026032_0028_0FCFD502EC5F6000"/>With <hi>Wherry</hi> tight</l>
+                           <pb n="26" facs="unknown:026032_0028_0FCFD502EC5F6000"/>With <hi>Wherry</hi> tight</l>
                         <l>And boſom light,</l>
                         <l>I cheerfully did tow;</l>
                         <l>And to complete this princely life,</l>
@@ -814,7 +815,7 @@
                         </l>
                      </lg>
                      <lg>
-                        <pb n="27" facs="tcp:026032_0029_0FCFD50718F61B30"/>
+                        <pb n="27" facs="unknown:026032_0029_0FCFD50718F61B30"/>
                         <l>At laſt it pleas'd his Majeſty</l>
                         <l>To give peace to the nation,</l>
                         <l>And honeſt hearts</l>
@@ -867,7 +868,7 @@
                         <l>If howling <hi>winds</hi> and roaring Seas</l>
                      </lg>
                      <lg>
-                        <pb n="28" facs="tcp:026032_0030_0FCFD50A63B2AFE8"/>
+                        <pb n="28" facs="unknown:026032_0030_0FCFD50A63B2AFE8"/>
                         <l>Give proof of coming danger;</l>
                         <l>
                            <hi>We</hi> view the Storm, our heart at eaſe</l>
@@ -931,14 +932,15 @@
       </group>
       <back>
          <div type="colophon">
-            <pb facs="tcp:026032_0031_0FCFD50CD55C4EB8" rendition="simple:additions"/>
+            <pb facs="unknown:026032_0031_0FCFD50CD55C4EB8"
+                rendition="simple:additions"/>
             <p>PRINTED and SOLD by ENOCH STORY</p>
             <p>Fourth-ſtreet, nearly oppoſite the Indian-Queen, (No. 36.) PHILADELPHIA.</p>
             <p>
                <hi>PRINTING,</hi> In general, executed in the neateſt manner, and at reaſonable PRICES.</p>
          </div>
          <div type="publishers_advertisement">
-            <pb facs="tcp:026032_0032_0FCFD50CD55C4EB8"/>
+            <pb facs="unknown:026032_0032_0FCFD50CD55C4EB8"/>
             <figure>
                <p>IOVAT IN SYLVIS HABITARE</p>
             </figure>
